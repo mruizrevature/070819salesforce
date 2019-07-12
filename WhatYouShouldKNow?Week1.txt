@@ -1,0 +1,123 @@
+What is Salesforce?
+What is a CRM?
+What is the difference between a SaaS and a PaaS?
+What are some benefits of Cloud Computing?
+What is an Org?
+What is an App?
+What is an Object?
+What is a Record?
+What is a Field?
+What does it mean to opearte in a Multi-Tenant Environment?
+What are Governor Limits?
+Where do we set Fiscal Year settings within Salesforce?
+What are some considerations when enabling/setting a custom Fiscal Year?
+Tell me about currency management?
+What are the different levels of Security?
+What is Org Access?
+    - What is a User?
+    - What is a User License?
+    - How do you get more Licenses?
+    - What is the difference between deacvitating and freezing a User?
+    - What are Login IP Ranges?
+    - What are Trusted IP Ranges?
+    - What are Login Hours?
+What is MVC?
+    - Be ready to be given a topic and be able to determine whether it falls under Model, View, or Controller.
+What are some Standard CRM Objects?
+What is a Standard Object?
+    - What can you do to a Standard Object.
+What are Custom Objects?
+    - When would you create a Custom Object?
+    - What can you do to a Custom Object?
+What is an ERD?
+What is Object Access?
+    - Where is it set?
+    - What is a Profile?
+        - What can be set on a Profile?
+        - How do you create a custom Profile?
+        - When would you create a custom Profile?
+    - What is a Permission Set?
+    - When would you create a new Profile instead of creating Permission Sets?
+    - What are the different permissions you can set on an Object?
+    - What are Permission Set Licenses?
+Where do you create an App?
+What are the four Field Types?
+What are some Field Data Types that you have used?
+What does it mean to mark a field as required?
+What is a Tab?
+    - What are the different Tab Settings?
+What is Record Access?
+    - What are OWDs?
+    - What is Role Hierarchy?
+    - What are Sharing Rules?
+        - What is a Criteria-Based Sharing Rule?
+        - What is an Ownership-Based Sharing Rule?
+    - What is Manual Sharing?
+        - How do we enable this?
+        - Where can we manually share a record?
+    - What is a Public Group?
+        - Who can be put into a Public Group?
+    - What is a Queue?
+        - Which objects are available to be put into a Queue?
+    - What is the difference between ownership when dealing with a Public Group vs a Queue?
+What is Field Access?
+    - Where are they set?
+    - What are the different settings?
+What is a Master-Detail Relationship?
+    - What happens when you delete the Master/Parent?
+    - What about Security?
+What is a Lookup-Relationship?
+    - What happens when you delete the Parent?
+    - What about Security?
+    - Is it required?
+How to create a Many-to-Many between two objects?
+What is a Junction Object?
+    - What type of relationships do Junction Objects use?
+Do relationships go on the parent or the child?
+What is a Hierarchical Relationship?
+What is a Page Layout?
+    - What can you set on a Page Layout?
+    - What Page Layout does a User get?
+What is a Related List?
+    - Is this found on the Child or Parent?
+    - Where can I set the fields to display on a Related List?
+What is a List View?
+    - Where are they created? 
+    - Who can see a List View that you create?
+What is a Roll-Up Summary?
+    - What are the different types of Roll-Up Summaries?
+What is Field History Tracking?
+    - What are some conderations you should know when working with Field History Tracking?
+What are Picklists?
+What is Field Dependency?
+    - What is a Controlling Field?
+    - What is a Dependent Field?
+What are Record Types?
+    - What is the relationship between Record Types and Page Layouts?
+    - Who do you assign Record Types to? User? Profile? Permission Set?
+What is a Search Layout?
+What are Actions?
+    - What is a Global Action?
+    - What is an Object-Specific Action?
+What is a Formula?
+    - How would you retrieve the value on a field from a related-record using a Formula?
+What are Validation Rules?
+What is a Report?
+    - What is a Report Type?
+    - What are the different Report Formats?
+        - What is a Tabular Report?
+        - What is a Summary Report?
+        - What is a Matrix Report?
+        - What is a Joined Report?
+    - How do you schedule a report?
+What is a Dashboard?
+    - What are Dashboard Components?
+        - What are the different component types?
+            - What are the different Chart Types?
+    - What is a Running User?
+    - What is the relationship between a Dashboard component and a report?
+    - What is the maximum amount of components per Dashboard?
+Where are Reports and Dashboards stored?
+    - What do these folders determine?
+
+

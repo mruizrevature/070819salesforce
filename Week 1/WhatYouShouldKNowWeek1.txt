@@ -110,6 +110,7 @@ What is a Report?
         - What is a Matrix Report?
         - What is a Joined Report?
     - How do you schedule a report?
+    - What are bucket fields?
 What is a Dashboard?
     - What are Dashboard Components?
         - What are the different component types?
